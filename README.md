@@ -41,10 +41,7 @@ This repository contains the work conducted during my externship, focusing on a 
 - Recommended strategic initiatives for long-term success.
 
 ## Repository Structure
-- `presentation/`: Contains the PowerPoint presentation (if allowed to share).
-- `analysis/`: Includes analysis scripts or notebooks.
-- `data/`: Contains any non-confidential datasets.
-- `report/`: Includes a project summary and key findings.
+ExternshipFinalPresentation.pptx: The PowerPoint file containing the full presentation of the analysis and findings.
 
 ## License
 Include a license file to clarify how others can use or share your work.
